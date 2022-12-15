@@ -15,7 +15,7 @@ A project to manage API ADD, UPDATE and DELETE URL image list of users' faces an
 
 1. <a href="https://github.com/deepinsight/insightface" target="_blank">InsightFace: 2D and 3D Face Analysis Project</a>
     <div align="center">
-    <img style="width:20%" src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
+    <img style="width:50%" src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
     </div>
     InsightFace project is mainly maintained By [Jia Guo](mailto:guojia@gmail.com?subject=[GitHub]%20InsightFace%20Project) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 
@@ -24,19 +24,19 @@ A project to manage API ADD, UPDATE and DELETE URL image list of users' faces an
     * Face Detection: My supported method is: RetinaFace (CVPR'2020). It is a practical single-stage face detector which is accepted by [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html). We provide training code, training dataset, pretrained models and evaluation scripts. 
 
     <div align="center">
-    <img style="width:50%" src="https://insightface.ai/assets/img/github/11513D05.jpg" width="640"/>
+    <img style="width:80%" src="https://insightface.ai/assets/img/github/11513D05.jpg" width="640"/>
     </div>
 
 
 2. Non-SQL storing database platform: <a href="https://www.mongodb.com/home" target="_blank">MongoDB</a>
     <div align="center">
-    <img style="width:15%" src="github_img/mongodb.png"/>
+    <img style="width:25%" src="github_img/mongodb.png"/>
     </div>
 
 
 3. Vector Search Engine: <a href="https://qdrant.tech/" target="_blank">Qdrant</a>
     <div align="center">
-    <img style="width:20%" src="github_img/qdrant.png"/>
+    <img style="width:25%" src="github_img/qdrant.png"/>
     </div>
 
 
