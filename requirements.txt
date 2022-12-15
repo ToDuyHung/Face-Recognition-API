@@ -1,0 +1,14 @@
+pydantic~=1.8.2
+fastapi~=0.85.0
+uvicorn~=0.18.3
+aiohttp~=3.8.3
+opencv-python~=4.6.0.66
+qdrant_client
+numpy~=1.23.5
+setuptools~=61.2.0
+six~=1.16.0
+pymongo~=4.1.1
+requests~=2.28.1
+Cython>=0.29.28
+cmake>=3.22.3    
+numpy>=1.22.3
