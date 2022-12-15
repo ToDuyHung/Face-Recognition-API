@@ -15,7 +15,7 @@ A project to manage API ADD, UPDATE and DELETE URL image list of users' faces an
 
 1. <a href="https://github.com/deepinsight/insightface" target="_blank">InsightFace: 2D and 3D Face Analysis Project</a>
     <div align="center">
-    <img style="width:50%" src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
+    <img style="width:30%" src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
     </div>
     InsightFace project is mainly maintained By [Jia Guo](mailto:guojia@gmail.com?subject=[GitHub]%20InsightFace%20Project) and [Jiankang Deng](https://jiankangdeng.github.io/). 
 
